@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "nodemon",
     "test": "jest",
+    "test:coverage": "jest --coverage",
     "build": "ncc build"
   },
   "author": "",
